@@ -7,5 +7,6 @@ public class Person
     public virtual void GetInfo()
     {
         Console.WriteLine($"{Name}-{Surname}");
+        Console.WriteLine("Salam yeni proje testi");
     }
 }
